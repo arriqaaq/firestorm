@@ -1,7 +1,7 @@
 # go-pipes
 
 
-'
+```
 // Example Usage
 
 type LineReader struct {
@@ -60,4 +60,4 @@ func main() {
 	pl.Run()
 }
 
-'
+```
